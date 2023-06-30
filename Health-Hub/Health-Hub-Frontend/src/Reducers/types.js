@@ -1,0 +1,3 @@
+export const SET_AUTH_STATUS= "SET_AUTH_STATUS";
+export const SET_USER_ROLE= "SET_USER_ROLE";
+ 
